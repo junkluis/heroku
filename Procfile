@@ -1,0 +1,1 @@
+web: gunicorn testTita.wsgi --log-file -
